@@ -25,4 +25,4 @@ You're free to customize this app to your liking (see the License section for de
 
 ## License
 
-IterationTraceability is released under the MIT license. See the file [LICENSE](https://raw.github.com/RallyApps/ReleaseTraceability/master/LICENSE) for the full text.
+ReleaseTraceability is released under the MIT license. See the file [LICENSE](https://raw.github.com/RallyApps/ReleaseTraceability/master/LICENSE) for the full text.
